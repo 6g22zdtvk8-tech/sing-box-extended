@@ -270,7 +270,7 @@ require (
 	zombiezen.com/go/capnproto2 v2.18.2+incompatible // indirect
 )
 
-replace github.com/sagernet/wireguard-go => github.com/shtorm-7/wireguard-go v0.0.6-extended-1.6.1
+replace github.com/sagernet/wireguard-go => github.com/6g22zdtvk8-tech/wireguard-go v0.0.6-extended-1.6.1-skvn1
 
 replace github.com/sagernet/tailscale => github.com/shtorm-7/tailscale v1.102.1-sing-box-1.14-mod.5-extended-1.0.3
 
